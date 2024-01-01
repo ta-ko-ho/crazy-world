@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-tests/wasmer-edge-gatsby-sample"
+name = "ordinary_user/try-true-state"
 version = "0.1.0"
 description = "wasmer-tests/wasmer-edge-gatsby-sample website"
 
@@ -8,23 +8,3 @@ description = "wasmer-tests/wasmer-edge-gatsby-sample website"
 
 [fs]
 public = "public"
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
-
-# this is a test commit
