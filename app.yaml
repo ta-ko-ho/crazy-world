@@ -1,4 +1,4 @@
 kind: wasmer.io/App.v0
-name: might-local-side
+name: try-long-party
 package: wasmer-tests/wasmer-edge-gatsby-sample
-source: ordinary_user/might-local-side
+source: ordinary_user/try-long-party
