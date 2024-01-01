@@ -8,3 +8,5 @@ description = "wasmer-tests/wasmer-edge-gatsby-sample website"
 
 [fs]
 public = "public"
+
+# this is a test commit
